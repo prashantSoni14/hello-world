@@ -8,3 +8,5 @@ This is update from github.
 This is new line update in github
 
 This is another line.
+
+This is another line added from local new branch.
